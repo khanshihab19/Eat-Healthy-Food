@@ -175,3 +175,72 @@ body {
 .sec3 {
     margin-bottom: 150px;
 }
+
+.follower {
+
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    width: 80%;
+    margin-left: 10%;
+
+
+}
+
+.container {
+    display: flex;
+    margin-left: 5%;
+}
+
+.container h1 {
+    font-size: 40px;
+    font-weight: bolder;
+    margin-right: 25px;
+}
+
+
+.Youtube {
+    width: 20%;
+    margin-left: 100px;
+    height: 15%;
+}
+
+.Youtube h1 {
+    text-align: center;
+
+}
+
+.Instagram {
+    width: 20%;
+    margin-left: 100px;
+    height: 15%;
+}
+
+.Dribbble {
+    width: 20%;
+    margin-left: 100px;
+    height: 15%;
+}
+
+.follower {
+    margin-bottom: 150px;
+}
+
+footer {
+    height: 250px;
+    background-color: rgb(2, 10, 23);
+    color: aliceblue;
+}
+
+footer h1 {
+    text-align: center;
+    padding-top: 30px;
+}
+
+footer p {
+    text-align: center;
+    font-weight: 500;
+}
+
+
+.eat {
+    color: orangered;
+}
